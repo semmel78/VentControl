@@ -1,4 +1,4 @@
-# ESP_WebConfig
+# VentControl
 fork of http://www.john-lassen.de/index.php/projects/esp-8266-arduino-ide-webconfig
 
 ## Changelog
@@ -6,4 +6,4 @@ fork of http://www.john-lassen.de/index.php/projects/esp-8266-arduino-ide-webcon
 ## Installation
 
 
-# VentControl
+
